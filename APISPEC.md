@@ -4,7 +4,7 @@
 Varje API anropas med en HTTP POST eller GET och följande argument skickas in:
 
 ```
-pno=	123456-1234
+pno=123456-1234
 firstname=Kalle
 lastname=Bertilsson
 city=Uppsala
