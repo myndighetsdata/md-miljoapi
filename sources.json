@@ -1,3 +1,5 @@
 [
-  "http://localhost:1234/bacteria"
+  "http://localhost:1234/bacteria",
+  "http://localhost:1234/metalsiwater",
+  "http://localhost:1234/metalsinair"
 ]
